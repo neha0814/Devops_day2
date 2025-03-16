@@ -1,2 +1,4 @@
  I am learning git today.
  Today is good day!
+new text
+good text
